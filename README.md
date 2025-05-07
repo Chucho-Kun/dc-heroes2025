@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Cambios desde GitHub
 ## Nuevos cambios en local
 
-##Fin
+## Fin de los tiempos
