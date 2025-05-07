@@ -12,3 +12,10 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Actualizacion Remota
 Con autorizacion de la casa
+
+* A
+* B
+* C
+  *C1
+  *C2
+  *C3
