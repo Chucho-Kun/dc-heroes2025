@@ -9,3 +9,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Fin de los tiempos desde Github
 ## Github
+
+## Actualizacion Remota
